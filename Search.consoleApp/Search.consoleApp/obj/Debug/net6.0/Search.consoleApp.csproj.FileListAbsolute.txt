@@ -1,0 +1,15 @@
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\bin\Debug\net6.0\Search.consoleApp.exe
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\bin\Debug\net6.0\Search.consoleApp.deps.json
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\bin\Debug\net6.0\Search.consoleApp.runtimeconfig.json
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\bin\Debug\net6.0\Search.consoleApp.dll
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\bin\Debug\net6.0\Search.consoleApp.pdb
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\obj\Debug\net6.0\Search.consoleApp.csproj.AssemblyReference.cache
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\obj\Debug\net6.0\Search.consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\obj\Debug\net6.0\Search.consoleApp.AssemblyInfoInputs.cache
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\obj\Debug\net6.0\Search.consoleApp.AssemblyInfo.cs
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\obj\Debug\net6.0\Search.consoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\obj\Debug\net6.0\Search.consoleApp.dll
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\obj\Debug\net6.0\refint\Search.consoleApp.dll
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\obj\Debug\net6.0\Search.consoleApp.pdb
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\obj\Debug\net6.0\Search.consoleApp.genruntimeconfig.cache
+D:\Projects\CoubDownloader\desktop\Search.consoleApp\Search.consoleApp\obj\Debug\net6.0\ref\Search.consoleApp.dll
